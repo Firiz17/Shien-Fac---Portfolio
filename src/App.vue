@@ -224,4 +224,7 @@ async function LoadPrayerTimes(period, zone) {
 body{
   @apply bg-amber-100
 }
+body{
+  font-family: 'General Sans', sans-serif;
+}
 </style>
